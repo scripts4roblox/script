@@ -17,7 +17,7 @@ local Window = Rayfield:CreateWindow({
    },
    KeySystem = true, -- Set this to true to use our key system
    KeySettings = {
-      Title = "Roblox Script Paradise",
+      Title = "SkidKid Hub",
       Subtitle = "Key System",
       Note = "Key in discord(No Downloads/Linkvertise!)",
       FileName = "SkidKid Hub - Key",
